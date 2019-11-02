@@ -1,0 +1,20 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+D	dc22b0be706a42698298956684e61b0f	e14f308d35cf4270a55693339cb80019	2019-11-02 06:58:38	2019-11-02 06:58:38	2019-11-02 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+D	2482f4a20b4e4a89b44a3c2d44234228	7caddd179aaf4309a5a0ad56fc4348c4	2019-11-02 06:59:06	2019-11-02 06:59:06	2019-11-02 10:59:00								n	0/1	0/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+B	78b82edc0b6bb5e14887c4329e49c337	3ff2e88c5852b785eeb0519622e6f919	2019-11-02 06:59:24	2018-04-01 15:56:38	2018-03-31 18:30:00	a204eb55108fc7b46a3a9e30bbb38227	Accounts Payable		Saraswati Beej Bhandar		Saraswati Beej Bhandar	Payment	n	170000/100	170000/100	1970-01-01 00:00:00
+B	78b82edc0b6bb5e14887c4329e49c337	02e1d3c7d3cc407e8d0e2357214266b9	2019-11-02 06:59:24	2018-04-01 15:56:38	2018-03-31 18:30:00	74c1807ef0e3d1146f832691d0d07b87	MumDad		Saraswati Beej Bhandar			Payment	n	-170000/100	-170000/100	1970-01-01 00:00:00
+===== END
+===== START
+D	78b82edc0b6bb5e14887c4329e49c337	3ff2e88c5852b785eeb0519622e6f919	2019-11-02 06:59:24	2018-04-01 15:56:38	2018-03-31 18:30:00	a204eb55108fc7b46a3a9e30bbb38227	Accounts Payable		Saraswati Beej Bhandar		Saraswati Beej Bhandar	Payment	n	170000/100	170000/100	1970-01-01 00:00:00
+D	78b82edc0b6bb5e14887c4329e49c337	02e1d3c7d3cc407e8d0e2357214266b9	2019-11-02 06:59:24	2018-04-01 15:56:38	2018-03-31 18:30:00	74c1807ef0e3d1146f832691d0d07b87	MumDad		Saraswati Beej Bhandar			Payment	n	-170000/100	-170000/100	1970-01-01 00:00:00
+===== END

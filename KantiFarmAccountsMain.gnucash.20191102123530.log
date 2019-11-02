@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	7fd4c971636f44be8425323c85bddb55	5f6439489b974292b42b63cbb74d4e34	2019-11-02 07:12:59	2019-11-02 07:12:59	2019-11-02 10:59:00	74c1807ef0e3d1146f832691d0d07b87	MumDad		9677 Total balance in this account				n	-7144700/100	-7144700/100	1970-01-01 00:00:00
+C	7fd4c971636f44be8425323c85bddb55	21b99d418451441dba484a39998cd2b4	2019-11-02 07:12:59	2019-11-02 07:12:59	2019-11-02 10:59:00	ca252c1bc4e054a4d82d3b0d6bdf9d32	Dad 9677		9677 Total balance in this account				n	7144700/100	7144700/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END

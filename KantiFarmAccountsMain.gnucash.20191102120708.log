@@ -1,0 +1,10 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	44504c39c0bb4af5b22e20c7548ada3b	b7be848f61a3462f9bbc3600b7d18aa8	2019-11-02 06:45:53	2019-11-02 06:45:53	2019-11-02 10:59:00	8f67a32a13eb61ce47368ca222e689ee	Mum 9418		Opening Balance in Mum's SBI cash account				n	15801854/100	15801854/100	1970-01-01 00:00:00
+C	44504c39c0bb4af5b22e20c7548ada3b	988bdbeaedfa4a2a8c9ba1a7ba6899b3	2019-11-02 06:45:53	2019-11-02 06:45:53	2019-11-02 10:59:00	35f2e5b4bf508bbf838a23397d17c9af	Equity Deepak		Opening Balance in Mum's SBI cash account				n	-15801854/100	-15801854/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
