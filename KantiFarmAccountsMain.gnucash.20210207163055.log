@@ -1,0 +1,12 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	12d8d58bc5024f12a042aa6f503436ee	0a34422616c54cf48d6d1b396e3ec2d9	2021-02-07 11:00:55	2021-02-07 11:00:55	2021-02-07 10:59:00	573a90772c734f438c7a77c0be88045f	SBI - 7494		Amirchand		Jan Salary	Payment	n	-700000/100	-700000/100	1970-01-01 00:00:00
+C	12d8d58bc5024f12a042aa6f503436ee	ef074555f65d447eb560904905657d09	2021-02-07 11:00:55	2021-02-07 11:00:55	2021-02-07 10:59:00	a204eb55108fc7b46a3a9e30bbb38227	Accounts Payable		Amirchand		Jan Salary	Payment	n	700000/100	700000/100	1970-01-01 00:00:00
+===== END
+===== START
+===== END
+===== START
+===== END

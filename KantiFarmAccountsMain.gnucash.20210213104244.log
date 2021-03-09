@@ -1,0 +1,8 @@
+mod	trans_guid	split_guid	time_now	date_entered	date_posted	acc_guid	acc_name	num	description	notes	memo	action	reconciled	amount	value	date_reconciled
+-----------------
+===== START
+===== END
+===== START
+C	738d5b8ea0cf4498912add8755d249e9	e6a7a20ed4ea438a95cfc835ccdeafa5	2021-02-13 05:12:44	2021-02-13 05:12:44	2021-02-13 10:59:00	573a90772c734f438c7a77c0be88045f	SBI - 7494		Best Plant Nursery			Payment	n	-3120000/100	-3120000/100	1970-01-01 00:00:00
+C	738d5b8ea0cf4498912add8755d249e9	6cb913ae30ed411284bfdbaa44a82e9e	2021-02-13 05:12:44	2021-02-13 05:12:44	2021-02-13 10:59:00	a204eb55108fc7b46a3a9e30bbb38227	Accounts Payable		Best Plant Nursery			Payment	n	3120000/100	3120000/100	1970-01-01 00:00:00
+===== END
